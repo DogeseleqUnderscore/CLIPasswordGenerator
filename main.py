@@ -3,6 +3,7 @@ import subprocess
 import argparse
 import secrets
 
+
 VERSION = "1.0"
 NAME = f"{CSI}1;33mPython{RESET} {CSI}1mPassword Generator v{VERSION}{RESET}\n"
 
